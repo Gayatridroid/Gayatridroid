@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Gayatridroid&label=Profile%20Views&color=0e75b6&style=flat)
+
 # Hi there 👋, I'm Gayatri Katole
 
 🎓  Computer Engineering Student 
